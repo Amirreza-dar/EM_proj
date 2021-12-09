@@ -23,7 +23,8 @@ import java.lang.annotation.Target;
 
 /**
  * <p>
- * Indicates that the element uses Java 7 API.
+ * Indicates that the element uses Java 7 API. HAHAHAHA
+ * WTF!
  * </p>
  */
 @Documented
